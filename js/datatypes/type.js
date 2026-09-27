@@ -1,0 +1,10 @@
+let a=2;
+let b=2.13;
+let c="hii";
+let d=true;
+let e=null;
+console.log(typeof(a));
+console.log(typeof(b));
+console.log(typeof(c));
+console.log(typeof(d));
+console.log(typeof(d));
