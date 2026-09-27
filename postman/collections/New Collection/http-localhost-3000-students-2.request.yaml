@@ -1,0 +1,35 @@
+$kind: http-request
+name: http://localhost:3000/students/2
+description: ""
+url: http://localhost:3000/students/2
+method: PATCH
+body:
+  type: json
+  content: "[\r
+
+    \    {\r
+
+    \        \"id\": 1,\r
+
+    \        \"name\": \"mani\",\r
+
+    \        \"college\": \"kiet\",\r
+
+    \        \"hobbies\": \"playing football\"\r
+
+    \    },\r
+
+    \    {\r
+
+    \        \"id\":2,\r
+
+    \        \"name\": \"vardhan\",\r
+
+    \        \"college\": \"kiet+\",\r
+
+    \        \"hobbies\": \"gym\"\r
+
+    \    }\r
+
+    ]"
+order: 1788072965293
