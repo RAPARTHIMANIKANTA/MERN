@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "course": "JavaScript"
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "course": "React"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "course": "Node.js"
+  },
+  {
+    "id": 4,
+    "name": "Ananya Singh",
+    "course": "MongoDB"
+  },
+  {
+    "id": 5,
+    "name": "Kabir Verma",
+    "course": "Express.js"
+  }
+]
